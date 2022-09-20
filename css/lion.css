@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(243, 212, 126);
+    text-align: center;
+  }
+
+  h1 {
+    color: black;
+    margin-left: 20px;
+  }
+
+
+    h3{
+      width: 85%;
+      height: 180px;
+      padding-top: 40px;
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 30px;
+
+    }
+
+
+    h3:hover{
+      background-color: #c4ab7f;
+      color: #f8f9dd;
+      border-radius: 30px;
+      box-shadow: 0 0 20px #4e3c2b;
+
+    }
